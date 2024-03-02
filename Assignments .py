@@ -1,6 +1,4 @@
 
-###############################################################################
-
 height = float(input("please enter your height in m:"))
 weight = float(input ("please enter your weight in kg:"))
 BMI= round((weight/(height*height)),2)
@@ -276,28 +274,4 @@ while True:
     if responce =='n':
         print(end= " ")
         break
-
-###############################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
